@@ -61,9 +61,9 @@ Minimum income • Maximum loan limit • Employment types • Minimum credit sc
 <h1>How to Run</h1>
 
 <p>
-1.Open GNU Prolog<br>
-2.Load the program: <code>?- [filename].</code><br>
-3.Start the expert system: <code>?- start.</code><br>
+1. Open GNU Prolog<br>
+2. Load the program: <code>?- [filename].</code><br>
+3. Start the expert system: <code>?- start.</code><br>
 </p>
 <br>
 
@@ -84,4 +84,3 @@ It demonstrates how Prolog can be used to build simple AI-based decision-making 
 The model can be expanded by adding more banks, modifying eligibility requirements, or introducing new ranking factors.
 </p>
 <br>
-
